@@ -17,5 +17,5 @@
       "Platron\\AtolV4\\tests\\": "tests"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
